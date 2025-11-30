@@ -13,6 +13,7 @@ Check out the [team documentation](docs/README.md) to get up to speed on:
 - [DAW Engine Stability](docs/daw-engine-stability.md) - 100 topics for robust audio engines
 - [Psychoacoustic Sound Design](docs/psychoacoustic-sound-design.md) ⭐ NEW - 90+ cinematic audio manipulation techniques
 - [DAW Track Import Methods](docs/daw-track-import-methods.md) ⭐ NEW - 100 ways to import tracks into a DAW
+- [**Comprehensive System Requirements & TODO**](docs/comprehensive-system-requirements.md) ⭐ MASTER - 400+ requirements with 12-phase implementation roadmap
 - [DAiW Music Brain](docs/daiw-music-brain.md) - AI-powered music composition system architecture
 - [DAW UI Design Patterns](docs/daw-ui-patterns.md) ⭐ NEW - React/TypeScript UI patterns for DAW interfaces
 - [Instrument Learning Research](docs/instrument-learning-research.md) - GitHub research automation tool

@@ -38,6 +38,11 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 - **[DAW Track Import Methods](daw-track-import-methods.md)** ⭐ NEW
   100 comprehensive methods for importing tracks into a DAW: file-based audio, session interchange, MIDI/score, live capture, virtual instruments, network/cloud, AI generation, and hybrid methods.
 
+### Master Requirements & TODO
+
+- **[Comprehensive System Requirements & TODO](comprehensive-system-requirements.md)** ⭐ MASTER DOC
+  400+ requirements across all systems with prioritized TODO list: Core system (100), Ghost Writer ethics (10), Prrot interrogation (10), UI/UX (10), audio engine (10), data/storage (10), hardware (10), music theory (10), collaboration (10), DSP (10), edge cases (10), and biometric/therapeutic features (100). Includes 12-phase implementation roadmap.
+
 ### AI & Research
 
 - **[Music Generation Research Topics](music-generation-research.md)**
@@ -71,12 +76,13 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 7. **Building stable audio engines?** See the [DAW Engine Stability Guide](daw-engine-stability.md)
 8. **Working on film/game audio?** Explore the [Psychoacoustic Sound Design Guide](psychoacoustic-sound-design.md)
 9. **Implementing track import?** Check out the [DAW Track Import Methods](daw-track-import-methods.md)
-10. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
-9. **Working with AI tools?** See the [AI Prompting & Efficiency Guide](ai-prompting-guide.md)
-10. **Building multi-agent systems?** Check out the [Multi-Agent Systems & MCP Guide](multi-agent-mcp-guide.md)
-11. **Working on DAiW Music Brain?** See the [DAiW Music Brain Architecture](daiw-music-brain.md)
-12. **Building DAW user interfaces?** Check out the [DAW UI Design Patterns](daw-ui-patterns.md)
-13. **Researching instrument learning?** See the [Instrument Learning Research Tool](instrument-learning-research.md)
+10. **Looking for the master TODO?** See the [Comprehensive System Requirements](comprehensive-system-requirements.md)
+11. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
+12. **Working with AI tools?** See the [AI Prompting & Efficiency Guide](ai-prompting-guide.md)
+13. **Building multi-agent systems?** Check out the [Multi-Agent Systems & MCP Guide](multi-agent-mcp-guide.md)
+14. **Working on DAiW Music Brain?** See the [DAiW Music Brain Architecture](daiw-music-brain.md)
+15. **Building DAW user interfaces?** Check out the [DAW UI Design Patterns](daw-ui-patterns.md)
+16. **Researching instrument learning?** See the [Instrument Learning Research Tool](instrument-learning-research.md)
 
 ### External Resources
 
