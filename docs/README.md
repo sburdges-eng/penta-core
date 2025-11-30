@@ -32,6 +32,9 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 - **[DAW Audio Engine Stability Guide](daw-engine-stability.md)** ⭐ NEW
   100 topics for building stable, robust DAW engines: real-time thread safety, plugin stability, session management, error recovery, and production-readiness.
 
+- **[Psychoacoustic & Cinematic Sound Design Guide](psychoacoustic-sound-design.md)** ⭐ NEW
+  90+ techniques for emotional manipulation through sound: biological triggers, harmonic subversion, temporal manipulation, spectral design, spatial audio, and film scoring applications.
+
 ### AI & Research
 
 - **[Music Generation Research Topics](music-generation-research.md)**
@@ -60,7 +63,8 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 5. **Building a Rust DAW backend?** Check out the [Rust DAW Backend Guide](rust-daw-backend.md)
 6. **Optimizing for low latency?** Read the [Low-Latency DAW Subjects](low-latency-daw.md)
 7. **Building stable audio engines?** See the [DAW Engine Stability Guide](daw-engine-stability.md)
-8. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
+8. **Working on film/game audio?** Explore the [Psychoacoustic Sound Design Guide](psychoacoustic-sound-design.md)
+9. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
 9. **Working with AI tools?** See the [AI Prompting & Efficiency Guide](ai-prompting-guide.md)
 10. **Building multi-agent systems?** Check out the [Multi-Agent Systems & MCP Guide](multi-agent-mcp-guide.md)
 11. **Working on DAiW Music Brain?** See the [DAiW Music Brain Architecture](daiw-music-brain.md)
