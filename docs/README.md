@@ -12,6 +12,9 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 - **[C++ Programming Guide](cpp-programming.md)**
   Modern C++ programming concepts, memory management, templates, and audio programming with C++.
 
+- **[Rust DAW Backend Guide](rust-daw-backend.md)** ⭐ NEW
+  Comprehensive 150-point guide to building a Rust DAW backend with MCP integration, sub-10ms latency, and VST3/AU/LV2 plugin support.
+
 ### Audio and Media
 
 - **[DAW (Digital Audio Workstation) Programs Guide](daw-programs.md)**
@@ -31,6 +34,7 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 2. **New to C++?** Check out the [C++ Programming Guide](cpp-programming.md)
 3. **Working with audio?** Review the [Audio Interfaces Guide](audio-interfaces.md)
 4. **Building DAW plugins?** See the [DAW Programs Guide](daw-programs.md)
+5. **Building a Rust DAW backend?** Check out the [Rust DAW Backend Guide](rust-daw-backend.md)
 
 ### External Resources
 

@@ -8,6 +8,7 @@ Check out the [team documentation](docs/README.md) to get up to speed on:
 
 - [Swift SDKs Development](docs/swift-sdks.md)
 - [C++ Programming](docs/cpp-programming.md)
+- [Rust DAW Backend](docs/rust-daw-backend.md) ⭐ NEW - 150 things to know about building a Rust DAW
 - [DAW Programs](docs/daw-programs.md)
 - [Audio Software/Hardware Interfaces](docs/audio-interfaces.md)
 - [Media Production](docs/media-production.md)
