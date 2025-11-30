@@ -31,8 +31,11 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 
 ### AI & Research
 
-- **[Music Generation Research Topics](music-generation-research.md)** ⭐ NEW
+- **[Music Generation Research Topics](music-generation-research.md)**
   150 research topics spanning neural architectures, foundation models, training methods, audio representations, controllable generation, evaluation metrics, MIR integration, and synthesis.
+
+- **[AI Prompting & Efficiency Guide](ai-prompting-guide.md)** ⭐ NEW
+  150 techniques for effective AI prompting: clarity, iteration, workflow automation, code generation, learning, writing, collaboration, and advanced patterns.
 
 ## Quick Links
 
@@ -45,6 +48,7 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 5. **Building a Rust DAW backend?** Check out the [Rust DAW Backend Guide](rust-daw-backend.md)
 6. **Optimizing for low latency?** Read the [Low-Latency DAW Subjects](low-latency-daw.md)
 7. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
+8. **Working with AI tools?** See the [AI Prompting & Efficiency Guide](ai-prompting-guide.md)
 
 ### External Resources
 
