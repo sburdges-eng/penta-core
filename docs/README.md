@@ -34,8 +34,11 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 - **[Music Generation Research Topics](music-generation-research.md)**
   150 research topics spanning neural architectures, foundation models, training methods, audio representations, controllable generation, evaluation metrics, MIR integration, and synthesis.
 
-- **[AI Prompting & Efficiency Guide](ai-prompting-guide.md)** ⭐ NEW
+- **[AI Prompting & Efficiency Guide](ai-prompting-guide.md)**
   150 techniques for effective AI prompting: clarity, iteration, workflow automation, code generation, learning, writing, collaboration, and advanced patterns.
+
+- **[Multi-Agent Systems & MCP Guide](multi-agent-mcp-guide.md)** ⭐ NEW
+  100 topics for designing multi-agent AI systems: cluster design, MCP fundamentals, orchestration, memory management, error handling, security, observability, and deployment.
 
 ## Quick Links
 
@@ -49,6 +52,7 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 6. **Optimizing for low latency?** Read the [Low-Latency DAW Subjects](low-latency-daw.md)
 7. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
 8. **Working with AI tools?** See the [AI Prompting & Efficiency Guide](ai-prompting-guide.md)
+9. **Building multi-agent systems?** Check out the [Multi-Agent Systems & MCP Guide](multi-agent-mcp-guide.md)
 
 ### External Resources
 

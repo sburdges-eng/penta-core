@@ -11,7 +11,8 @@ Check out the [team documentation](docs/README.md) to get up to speed on:
 - [Rust DAW Backend](docs/rust-daw-backend.md) - 150 things to know about building a Rust DAW
 - [Low-Latency DAW Subjects](docs/low-latency-daw.md) - Real-time systems, DSP, and DAW architecture
 - [Music Generation Research](docs/music-generation-research.md) - 150 AI/ML research topics
-- [AI Prompting Guide](docs/ai-prompting-guide.md) ⭐ NEW - 150 techniques for effective AI prompting
+- [AI Prompting Guide](docs/ai-prompting-guide.md) - 150 techniques for effective AI prompting
+- [Multi-Agent MCP Guide](docs/multi-agent-mcp-guide.md) ⭐ NEW - Multi-agent systems & MCP architecture
 - [DAW Programs](docs/daw-programs.md)
 - [Audio Software/Hardware Interfaces](docs/audio-interfaces.md)
 - [Media Production](docs/media-production.md)
