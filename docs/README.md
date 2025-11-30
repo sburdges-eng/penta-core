@@ -26,6 +26,9 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 - **[Media Production Guide](media-production.md)**
   Audio and video production workflows, formats, streaming, and development tools like FFmpeg.
 
+- **[Low-Latency DAW Subjects](low-latency-daw.md)** ⭐ NEW
+  Technical subjects for building low-latency DAWs: real-time systems, DSP, audio effects, synthesis, and DAW architecture.
+
 ### AI & Research
 
 - **[Music Generation Research Topics](music-generation-research.md)** ⭐ NEW
@@ -40,7 +43,8 @@ Welcome to the penta-core team documentation hub. This documentation is designed
 3. **Working with audio?** Review the [Audio Interfaces Guide](audio-interfaces.md)
 4. **Building DAW plugins?** See the [DAW Programs Guide](daw-programs.md)
 5. **Building a Rust DAW backend?** Check out the [Rust DAW Backend Guide](rust-daw-backend.md)
-6. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
+6. **Optimizing for low latency?** Read the [Low-Latency DAW Subjects](low-latency-daw.md)
+7. **Researching music AI?** Explore the [Music Generation Research Topics](music-generation-research.md)
 
 ### External Resources
 

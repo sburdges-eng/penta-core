@@ -9,7 +9,8 @@ Check out the [team documentation](docs/README.md) to get up to speed on:
 - [Swift SDKs Development](docs/swift-sdks.md)
 - [C++ Programming](docs/cpp-programming.md)
 - [Rust DAW Backend](docs/rust-daw-backend.md) - 150 things to know about building a Rust DAW
-- [Music Generation Research](docs/music-generation-research.md) ⭐ NEW - 150 AI/ML research topics
+- [Low-Latency DAW Subjects](docs/low-latency-daw.md) ⭐ NEW - Real-time systems, DSP, and DAW architecture
+- [Music Generation Research](docs/music-generation-research.md) - 150 AI/ML research topics
 - [DAW Programs](docs/daw-programs.md)
 - [Audio Software/Hardware Interfaces](docs/audio-interfaces.md)
 - [Media Production](docs/media-production.md)
