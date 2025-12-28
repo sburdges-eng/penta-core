@@ -16,7 +16,6 @@ Environment Variables:
 """
 
 import argparse
-import json
 import os
 import subprocess
 import sys
@@ -97,21 +96,32 @@ class PRManager:
         Returns list of conflicting file paths.
         """
         try:
-            # Try to get comparison
-            endpoint = f"/repos/{self.owner}/{self.repo}/compare/{base_branch}...{head_branch}"
-            response = self._api_get(endpoint)
-            compare_data = response.json()
+            # Validate branch names to prevent command injection
+            # Branch names should only contain alphanumeric, -, _, /, and .
+            import re
+            branch_pattern = re.compile(r'^[a-zA-Z0-9/_.-]+$')
+            if not branch_pattern.match(base_branch) or not branch_pattern.match(head_branch):
+                print(f"Warning: Invalid branch name format")
+                return []
             
-            # If status is 'diverged', there might be conflicts
-            # We'll need to check by attempting the merge
-            result = subprocess.run(
-                ["git", "merge-tree", 
-                 f"origin/{base_branch}", 
-                 f"origin/{head_branch}",
-                 f"$(git merge-base origin/{base_branch} origin/{head_branch})"],
+            # Get merge base
+            merge_base_result = subprocess.run(
+                ["git", "merge-base", f"origin/{base_branch}", f"origin/{head_branch}"],
                 capture_output=True,
                 text=True,
-                shell=True,
+                cwd=os.getcwd()
+            )
+            
+            if merge_base_result.returncode != 0:
+                return []
+            
+            merge_base = merge_base_result.stdout.strip()
+            
+            # Try merge-tree to detect conflicts
+            result = subprocess.run(
+                ["git", "merge-tree", merge_base, f"origin/{base_branch}", f"origin/{head_branch}"],
+                capture_output=True,
+                text=True,
                 cwd=os.getcwd()
             )
             

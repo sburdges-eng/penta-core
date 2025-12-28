@@ -6,7 +6,7 @@ Run with: python -m pytest scripts/test_manage_prs.py
 """
 
 import unittest
-from unittest.mock import Mock, patch, MagicMock
+from unittest.mock import Mock, patch
 import sys
 import os
 
